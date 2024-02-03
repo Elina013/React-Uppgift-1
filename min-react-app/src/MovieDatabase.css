@@ -1,0 +1,43 @@
+/* MovieDatabase.css */
+.movie-database {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+}
+
+.movie-form {
+  margin-bottom: 20px;
+}
+
+.movie-form input {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.movie-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.movie-list li {
+  margin-bottom: 10px;
+}
+
+.movie-list span {
+  margin-right: 10px;
+}
+
+button {
+  padding: 5px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  margin-right: 5px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

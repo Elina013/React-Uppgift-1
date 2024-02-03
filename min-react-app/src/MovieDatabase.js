@@ -1,7 +1,8 @@
 // MovieDatabase.js
+'use strict';
 
 import React, { useState } from 'react';
-import './App.css';
+import './MovieDatabase.css';
 
 const MovieDatabase = () => {
   const [movies, setMovies] = useState([]);
